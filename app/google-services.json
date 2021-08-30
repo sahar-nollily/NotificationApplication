@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "303985691266",
+    "project_id": "notificationtest-37f7a",
+    "storage_bucket": "notificationtest-37f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303985691266:android:5d9a1a4205ae377f1bc29b",
+        "android_client_info": {
+          "package_name": "com.example.notificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303985691266-tp3uj3aqkpjkidtq2o58vur8p95iribv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRh20Rl74nIdWqa47xJvu3sg2NBLQ0mrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303985691266-tp3uj3aqkpjkidtq2o58vur8p95iribv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303985691266:android:64005862091df6da1bc29b",
+        "android_client_info": {
+          "package_name": "com.tarmeez.notificationapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303985691266-tp3uj3aqkpjkidtq2o58vur8p95iribv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRh20Rl74nIdWqa47xJvu3sg2NBLQ0mrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303985691266-tp3uj3aqkpjkidtq2o58vur8p95iribv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
